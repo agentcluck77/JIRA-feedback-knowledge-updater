@@ -1,0 +1,15 @@
+{
+  "my_alpha_bot": {
+    "bot_type": "alpha_knowledge",
+    "url": "https://knowledge.alpha.example.com/api",
+    "expert_id": "1234",
+    "api_key": "your-alpha-api-key"
+  },
+  "my_legacy_bot": {
+    "bot_type": "ai_bot_platform",
+    "url": "https://your-bot.com/api/chat",
+    "app_id": "your-app-id",
+    "user_email": "bot-user@company.com",
+    "app_secret": "your-app-secret"
+  }
+} 
